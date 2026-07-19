@@ -1,9 +1,18 @@
-
-
+<!--
+  GitHub Profile README for Priyanka Priyadarshini Dash
+  HOW TO USE:
+  1. Create a new repo with the EXACT same name as your GitHub username (this makes it a "profile README").
+  2. Add this README.md AND terminal-animation.svg to that repo (same folder, repo root is easiest).
+  3. Replace every YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_USERNAME placeholder below with your real ones.
+-->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=220&section=header&text=Priyanka%20Priyadarshini%20Dash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://github.com/YOUR_GITHUB_USERNAME.png?size=180" width="150" height="150" style="border-radius:50%;border:4px solid #EC4899;" alt="Profile picture"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Java+%7C+Full+Stack+Developer;Backend-Focused+Problem+Solver;REST+API+%26+Spring+Boot+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -23,6 +32,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<img src="./terminal-animation.svg" width="600" alt="typing code animation" />
+
 </div>
 
 <br/>
@@ -36,6 +49,16 @@
 - 🌱 Comfortable working in **Agile** development environments
 - 🎯 Seeking an **entry-level Software Engineer** role to build technology-driven business solutions
 - ⚡ Fun fact: I like pairing with AI tools like Claude & Gemini to move faster while coding
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 <br/>
 
@@ -159,6 +182,10 @@ A digital platform to manage credentials, certification status, deployment, and 
 
 <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 <br/>
@@ -166,6 +193,10 @@ A digital platform to manage credentials, certification status, deployment, and 
 ## 📫 Let's Connect
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
 
 Open to entry-level **Software Engineer** opportunities — feel free to reach out!
 
